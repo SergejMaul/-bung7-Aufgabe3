@@ -1,16 +1,10 @@
-# CS102 (h1 in HTML)
-Mein Name: *Helmar Burkhart*. Achtung: Ihren Namen eintragen.
-### Inhalt (h3 in HTML)
+# Titel Überschrift
+Mein Name: *kursiv*. Achtung: **Fett**
+
+### Tabelle
 - Endliche Automaten
 - Processing
-```` 
-line(25,50,70,90)
-strokeWeight(5)
-point(60,60)
- ````
-- LaTeX
-
- ````tex
+````Tex
 \documentclass{article}
 \begin{document}
 Hallo LATEX!  
